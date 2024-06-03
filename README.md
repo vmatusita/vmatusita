@@ -1,7 +1,7 @@
-## Hi there 👋
+## Opa! Meu nome é Victor e curto programação 🤓☝️ 
 
 - 🔭 Estou trabalhando com frontend
-- 🌱 Aprofundando JavaScript e aprendendo React
+- 🌱 Aprofundando JavaScript e aprendendo React 
 
 <a href="https://github.com/vmatusita" target="_blank">
   <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vmatusita&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
