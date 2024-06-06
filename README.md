@@ -1,4 +1,4 @@
-## Opa! Meu nome é Victor e curto programação 🤓☝️ 
+## Opa! Meu nome é Victor e sou garoto de programa 🤓☝️ 
 
 - 🔭 Estou trabalhando com frontend
 - 🌱 Aprofundando JavaScript e aprendendo React 
