@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <h2>Olá! Eu sou o Victor 👋</h2>
   <h3>Desenvolvedor Front-end</h3>
   <p>
@@ -33,17 +33,6 @@
   <img align="center" alt="Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
   
   <img align="center" alt="Node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/vmatusita" target="_blank">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vmatusita&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/vmatusita" target="_blank">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vmatusita&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  </a>
 </div>
 
 <br>
